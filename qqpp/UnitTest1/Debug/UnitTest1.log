@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\c++附\qqpp\qqpp\qqpp.cpp(138,21): warning C4018:  “<”: 有符号/无符号不匹配
+UnitTest1.obj : error LNK2005: "bool __cdecl isnum_str2(char)" (?isnum_str2@@YA_ND@Z) 已经在 qqpp.obj 中定义
+UnitTest1.obj : error LNK2005: "bool __cdecl isnum_str(char)" (?isnum_str@@YA_ND@Z) 已经在 qqpp.obj 中定义
+UnitTest1.obj : error LNK2005: _main 已经在 qqpp.obj 中定义
+    正在创建库 D:\c++附\qqpp\Debug\UnitTest1.lib 和对象 D:\c++附\qqpp\Debug\UnitTest1.exp
+D:\c++附\qqpp\Debug\UnitTest1.dll : fatal error LNK1169: 找到一个或多个多重定义的符号
